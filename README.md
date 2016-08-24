@@ -14,6 +14,10 @@ Once you have imported base app, go ahead and run it, and you should see the fol
   
 ![Imgur](http://i.imgur.com/K1MANspm.png)
 
+The goal is to create custom theme. Some examples include:
+
+![Imgur](http://i.imgur.com/IpvZXy4.png)
+
 Let's understand the steps involved in creating this app. And after that you will go ahead and create different themes in a similar fashion.
 
 **1.** We created a new app called ThemeSwitcher and main activity called ThemeActivity.
