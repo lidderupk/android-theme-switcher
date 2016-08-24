@@ -15,6 +15,8 @@
 
     <style name="Theme.YOUR_CUSTOM_THEME" parent="Theme.AppCompat.Light">
         <!-- Define styles for YOUR_CUSTOM_THEME here. -->
+        <item name="pageBackground">@style/page_background_blue</item>
+        page_background_blue
     </style>
 
 </resources>
